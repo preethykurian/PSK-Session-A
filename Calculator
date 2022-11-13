@@ -1,3 +1,4 @@
 read a, b, sum, diff
 sum=a+b
+add= c+m
 Print sum
