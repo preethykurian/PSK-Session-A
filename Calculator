@@ -1,3 +1,5 @@
 read a, b, sum, diff
 sum=a+b
 Print sum
+diff=a-b
+print diff
